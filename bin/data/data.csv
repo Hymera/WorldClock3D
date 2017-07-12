@@ -1,0 +1,25 @@
+city;timeformat;timezone;latitude;longitude
+ANCHORAGE;HH:mm:ss;America/Anchorage;61.218056;-149.900278
+VANCOUVER;HH:mm:ss;America/Vancouver;49.282729;-123.120738
+LOS ANGELES;HH:mm:ss;America/Los_Angeles;34.052234;-118.243685
+CHICAGO;HH:mm:ss;America/Chicago;41.878114;-87.629798
+NEW YORK;HH:mm:ss;America/New York;40.730610;-73.935242
+MEXICO CITY;HH:mm:ss;America/Mexico_City;23.634501;-102.552784
+LIMA;HH:mm:ss;America/Lima;-12.046374;-77.042793
+RIO DE JANEIRO;HH:mm:ss;America/Sao_Paulo;-22.906847;-43.172896
+BUENOS AIRES;HH:mm:ss;America/Buenos_Aires;-34.603684;-58.381559
+LONDON;HH:mm:ss;Europe/London;51.507351;-0.127758
+MOSCOW;HH:mm:ss;Europe/Moscow;55.755826;37.617300
+BERLIN;HH:mm:ss;Europe/Berlin;52.520007;13.404954
+ROME;HH:mm:ss;Europe/Rome;41.902783;12.496366
+BAGHDAD;HH:mm:ss;Asia/Baghdad;33.312806;44.361488
+CAIRO;HH:mm:ss;Africa/Cairo;30.044420;31.235712
+NAIROBI;HH:mm:ss;Africa/Nairobi;-1.292066;36.821946
+CAPE TOWN;HH:mm:ss;Africa/Maseru;-33.924869;18.424055
+SEOUL;HH:mm:ss;Asia/Seoul;37.566535;126.977969
+BEIJING;HH:mm:ss;Asia/Hong_Kong;39.904211;116.407395
+TOKYO;HH:mm:ss;Asia/Tokyo;35.652832;139.839478
+HONG KONG;HH:mm:ss;Asia/Hong_Kong;22.396428;114.109497
+JAKARTA;HH:mm:ss;Asia/Jakarta;-6.174465;106.822745
+PERTH;HH:mm:ss;Australia/Perth;-31.950527;115.860457
+SYDNEY;HH:mm:ss;Australia/Sydney;-33.868820;151.209296
